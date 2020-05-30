@@ -1,4 +1,4 @@
-# SSoC_Assignment
+# SSoC_SNN_Assignment
 
 ## Q1
 
