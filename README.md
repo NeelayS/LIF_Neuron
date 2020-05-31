@@ -7,4 +7,4 @@
 ## Q2
 
 - <b>NN.ipynb</b>: XOR/XNOR neural network in Numpy with one hidden layer
-- Trained on 10000 epochs with a learnig rate of 0.1 
+- Trained for 10000 epochs with a learnig rate of 0.1 
